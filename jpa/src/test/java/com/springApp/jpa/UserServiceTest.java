@@ -1,4 +1,4 @@
-package com.springApp.jpa;
+package java.com.springApp.jpa;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.springApp.jpa.dto.UserDto;
